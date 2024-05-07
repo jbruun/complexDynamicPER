@@ -1,3 +1,4 @@
+96/3
 #This is the Ising-like model developed by
 #Bordogna, C. M., & Albano, E. V. (2001). 
 #Theoretical description of teaching-learning processes: A multidisciplinary approach. 
